@@ -19,23 +19,23 @@
 ### ⚡ Мой технологический стек:
 
 [![Java Script](https://shields.io/badge/-Java_Script-F7DF1E?logo=javascript&style=for-the-badge&logoColor=222)](https://learn.javascript.ru/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
 [![HTML](https://shields.io/badge/-HTML5-E34F26?logo=html5&style=for-the-badge&logoColor=fff)](https://html5book.ru/html-html5/)
 [![CSS](https://shields.io/badge/-CSS3-1572B6?logo=css3&style=for-the-badge&logoColor=fff)](https://html5book.ru/osnovy-css/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-scss.ru/)
 [![React](https://shields.io/badge/-React-f9fbfa?logo=react&style=for-the-badge)](https://reactjs.org/)
 [![Redux](https://shields.io/badge/-Redux-710B77?logo=redux&style=for-the-badge)](https://redux.js.org/)
 <br />
-[![Git](https://shields.io/badge/-Git-f0efe7?logo=git&style=for-the-badge)](https://git-scm.com/)
-[![GitHub](https://shields.io/badge/-GitHub-333?logo=GitHub&style=for-the-badge)](https://github.com/)
+[![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
+[![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)](https://jestjs.io/ru/)
+[![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)](https://storybook.js.org/)
+[![Babel](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)](https://babeljs.io/)
+[![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
+<br />
 [![NPM](https://shields.io/badge/-NPM-FF0000?logo=NPM&style=for-the-badge&logoColor=fff)](https://www.npmjs.com/)
 [![Bootstrap](https://img.shields.io/badge/-Bootstrap-f9fbfa?logo=bootstrap&style=for-the-badge)](https://getbootstrap.com/)
 [![Postman](https://img.shields.io/badge/-Postman-f9fbfa?logo=Postman&style=for-the-badge)](https://www.postman.com/)
-<img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/>
-
-### 🌱 Сейчас я изучаю такие технологии, как:
-
-[![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
-[![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
+[![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)](https://eslint.org/) 
 
 ### 🌱 Мой уровень в codewars:
 
