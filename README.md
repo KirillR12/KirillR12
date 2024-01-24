@@ -34,4 +34,6 @@
 
 [![ExpressJS](https://img.shields.io/badge/-Express.js-333?logo=express&style=for-the-badge)](https://expressjs.com/ru/)
 [![Node](https://shields.io/badge/-Node-333?logo=node.js&style=for-the-badge)](https://nodejs.org/en/)
-[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-f9fbfa?logo=TypeScript&style=for-the-badge)](https://www.typescriptlang.org/)<img width="633" alt="Снимок экрана 2024-01-25 в 00 31 27" src="https://github.com/KirillR12/KirillR12/assets/111389448/d5e30dba-2ea1-48db-89aa-eaef0ace431b">
+
+
