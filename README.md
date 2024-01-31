@@ -7,7 +7,7 @@
 
 ### 🤔 Ты можешь найти меня, здесь:
 
-<a href="http://t.me/https://t.me/llfedotov">
+<a href="https://t.me/llfedotov">
   <img align="left" alt="Kirill Fedotov | Telegram" width="25px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Telegram_Messenger.png/768px-Telegram_Messenger.png" />
 </a>
 <a href="https://www.instagram.com/llfedotov">
